@@ -115,12 +115,12 @@ h3, p{
 }
 
 footer{
-    height: 13.5%;
+    height: 15%;
     background-color: #b48479ad;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    border-bottom: 1px solid black;
+    border-top: 1px solid black;
     box-shadow: 1px 1px 1px black;
 
 }
