@@ -21,7 +21,7 @@ header{
     justify-content: space-around;
     border-bottom: 1px solid black;
     box-shadow: 1px 1px 1px black;
-    height: 13%;
+    height: 15%;
 }
 
 div#logo > h1{
@@ -120,6 +120,7 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    flex-wrap: wrap;
     border-top: 1px solid black;
     box-shadow: 1px 1px 1px black;
 
